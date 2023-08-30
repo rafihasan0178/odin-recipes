@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    background-color: rgb(240, 0, 120);
+    font-family: Haettenschweiler, Impact,'Arial Narrow Bold', sans-serif;
+}
+
+.simp {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
