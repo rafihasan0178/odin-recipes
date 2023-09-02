@@ -1,14 +1,48 @@
+.title {
+background-color: rgb(186, 250, 250);
+padding: 20px;
+margin: 40px;
+}
 h1 {
     text-align: center;
     font-size: 50px;
-    color: yellow;
-    background-color: rgb(240, 0, 120);
-    font-family: Haettenschweiler, Impact,'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-family: Haettenschweiler,'Arial Narrow Bold', sans-serif;
+    padding-bottom: 10px;
+    margin: auto;
+    height: 50px;
+    width: 400px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: bolder;
+    
 }
 
 .simp {
+    border: 10px solid white;
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.listy {
+    background-color: beige;
+    margin: 40px;
+}
+
+.list {
+    
+    display: inline-block;
+    font-size: 30px;
+    padding: 30px;
+    width: 400px;
+    margin: 30px;
+    border: 10px solid rgb(255, 5, 5);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    color: black;
 }
